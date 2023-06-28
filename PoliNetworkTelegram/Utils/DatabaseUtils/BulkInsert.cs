@@ -1,9 +1,9 @@
 ﻿using System.Data;
 using JetBrains.Annotations;
-using MySql.Data.MySqlClient;
 using SampleNuGet.Objects;
+using SampleNuGet.Utils.DatabaseUtils;
 
-namespace SampleNuGet.Utils.DatabaseUtils;
+namespace PoliNetwork.Telegram.Utils.DatabaseUtils;
 
 [PublicAPI]
 public static class BulkInsert

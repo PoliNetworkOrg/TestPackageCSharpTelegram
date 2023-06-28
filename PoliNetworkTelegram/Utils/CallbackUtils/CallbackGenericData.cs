@@ -7,7 +7,7 @@ using Telegram.Bot.Types;
 
 #endregion
 
-namespace SampleNuGet.Utils.CallbackUtils;
+namespace PoliNetwork.Telegram.Utils.CallbackUtils;
 
 [Serializable]
 [JsonObject(MemberSerialization.Fields)]

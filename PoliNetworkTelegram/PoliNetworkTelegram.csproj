@@ -10,6 +10,7 @@
 
     <ItemGroup>
       <PackageReference Include="JetBrains.Annotations" Version="2023.2.0-eap3" />
+      <PackageReference Include="MySql.Data" Version="8.0.33" />
       <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
       <PackageReference Include="Telegram.Bot" Version="19.0.0" />
     </ItemGroup>
