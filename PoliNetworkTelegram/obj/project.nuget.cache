@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbF5IUdJI3hTI7YgQbPjUZvKIQv9yWerpgXvEfI8Y6TlyYDAciThFZF++M+1McwPG10+pmfgsmQl/ic7ZL062g==",
+  "dgSpecHash": "hgq989q/x2eLPWeBbVNq080pNinJqoa9VAbjycprPoK0M5zue9RpocZBgknoEK5twSqZkS5GkRElBHYCUiAZgQ==",
   "success": true,
-  "projectFilePath": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
+  "projectFilePath": "C:\\git\\PoliNetwork\\PoliNetworkBot_CSharp\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\jetbrains.annotations\\2023.2.0-eap3\\jetbrains.annotations.2023.2.0-eap3.nupkg.sha512",
