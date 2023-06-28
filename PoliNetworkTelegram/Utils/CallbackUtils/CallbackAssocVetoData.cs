@@ -3,6 +3,7 @@
 using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
+using PoliNetwork.Telegram.Utils.CallbackUtils;
 using PoliNetworkBot_CSharp.Code.Objects;
 using SampleNuGet.Objects;
 using SampleNuGet.Utils.CallbackUtils;

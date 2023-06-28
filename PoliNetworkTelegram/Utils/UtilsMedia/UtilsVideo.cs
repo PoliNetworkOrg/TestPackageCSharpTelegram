@@ -4,6 +4,8 @@ using SampleNuGet.Objects;
 using SampleNuGet.Objects.TelegramMedia;
 using SampleNuGet.Utils;
 using SampleNuGet.Utils.DatabaseUtils;
+using Telegram.Bot.Types;
+using Telegram.Bot.Types.Enums;
 
 #endregion
 

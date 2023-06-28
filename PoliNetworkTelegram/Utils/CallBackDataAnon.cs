@@ -2,6 +2,7 @@
 
 using System;
 using System.Collections.Generic;
+using PoliNetwork.Telegram.Utils.CallbackUtils;
 using PoliNetworkBot_CSharp.Code.Utils.CallbackUtils;
 using SampleNuGet.Utils.CallbackUtils;
 

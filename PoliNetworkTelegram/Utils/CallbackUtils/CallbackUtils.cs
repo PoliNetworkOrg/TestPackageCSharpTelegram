@@ -2,6 +2,7 @@
 
 using System.Numerics;
 using Newtonsoft.Json;
+using PoliNetwork.Telegram.Utils.CallbackUtils;
 using SampleNuGet.Objects;
 using SampleNuGet.Objects.Exceptions;
 using Telegram.Bot;
