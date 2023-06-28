@@ -1,10 +1,8 @@
 ﻿#region
 
-using System;
-
 #endregion
 
-namespace PoliNetworkBot_CSharp.Code.Enums;
+namespace PoliNetwork.Telegram.Enums;
 
 [Serializable]
 public enum BotTypeApi
