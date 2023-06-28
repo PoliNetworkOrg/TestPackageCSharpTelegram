@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "R/yUWXUDM2H0f3spsjwLpTi2GNZim2Sux2MZV3S+v31WKpcHGRqPbIkaSVId5yoqGpjb24gHn27oYtAeGZ5Ttg==",
+  "dgSpecHash": "D7gvFf/lkzMOoAsQTTbb4NonKuH15s/Xt64q84j5WisjLzW9f2cTR4kMvwDnLgjxjI45yaMBRkl0MHA/nS8UBA==",
   "success": true,
   "projectFilePath": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
