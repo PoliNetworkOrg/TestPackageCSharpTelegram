@@ -1,15 +1,13 @@
 ﻿#region
 
-using PoliNetworkBot_CSharp.Code.Utils;
 using SampleNuGet.Objects;
 using SampleNuGet.Objects.TelegramMedia;
+using SampleNuGet.Utils;
 using SampleNuGet.Utils.DatabaseUtils;
-using Telegram.Bot.Types;
-using Telegram.Bot.Types.Enums;
 
 #endregion
 
-namespace SampleNuGet.Utils.UtilsMedia;
+namespace PoliNetwork.Telegram.Utils.UtilsMedia;
 
 public static class UtilsVideo
 {

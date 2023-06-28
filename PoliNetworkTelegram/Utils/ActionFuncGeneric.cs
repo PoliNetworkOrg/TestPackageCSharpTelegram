@@ -2,7 +2,7 @@
 using PoliNetworkBot_CSharp.Code.Utils;
 using SampleNuGet.Objects;
 
-namespace SampleNuGet.Utils;
+namespace PoliNetwork.Telegram.Utils;
 
 [Serializable]
 [JsonObject(MemberSerialization.Fields)]

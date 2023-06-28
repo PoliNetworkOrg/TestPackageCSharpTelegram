@@ -1,6 +1,6 @@
 ﻿using JetBrains.Annotations;
 
-namespace SampleNuGet.Utils;
+namespace PoliNetwork.Telegram.Utils;
 
 /// <summary>
 ///     Dummy class

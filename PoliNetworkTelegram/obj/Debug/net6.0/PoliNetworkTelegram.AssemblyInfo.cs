@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PoliNetworkTelegram")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PoliNetwork.Telegram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PoliNetworkTelegram")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PoliNetworkTelegram")]
+[assembly: System.Reflection.AssemblyProductAttribute("PoliNetwork.Telegram")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PoliNetwork.Telegram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

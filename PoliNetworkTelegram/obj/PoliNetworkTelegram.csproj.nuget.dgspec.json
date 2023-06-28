@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj": {}
+    "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj": {}
   },
   "projects": {
-    "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj": {
+    "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
-        "projectName": "PoliNetworkTelegram",
-        "projectPath": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
+        "projectUniqueName": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
+        "projectName": "PoliNetwork.Telegram",
+        "projectPath": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\PoliNetworkTelegram\\obj\\",
+        "outputPath": "C:\\git\\PoliNetwork\\TestPackageCSharpTelegram\\PoliNetworkTelegram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,9 +45,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.2.0-eap3, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
             }
           },
           "imports": [
