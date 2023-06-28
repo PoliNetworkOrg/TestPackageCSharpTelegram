@@ -1,5 +1,6 @@
 ﻿using System.Data;
 using JetBrains.Annotations;
+using MySql.Data.MySqlClient;
 using SampleNuGet.Objects;
 using SampleNuGet.Utils.DatabaseUtils;
 
@@ -183,7 +184,7 @@ public static class BulkInsert
     }
 
     private static Tuple<string?, Column> MySqlStringTypeFromDataType(DataColumn xDataColumn,
-        List<object?> exampleValue)
+        List<object> exampleValue)
     {
         var xDataType = xDataColumn.DataType;
 
